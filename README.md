@@ -10,4 +10,5 @@
 
 喜欢我的内容可以扫描以下二维码关注公众号，以更快获取我的最新消息
 
-![fb30ee5e83ffd1918bd07a8aeb590f9](C:\Users\YellowComp\Pictures\fb30ee5e83ffd1918bd07a8aeb590f9.jpg)
+
+![fb30ee5e83ffd1918bd07a8aeb590f9](https://github.com/user-attachments/assets/aff9efa5-48f4-4bcf-adeb-99b03bed2044)
