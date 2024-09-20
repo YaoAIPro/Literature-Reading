@@ -8,7 +8,14 @@
 
 
 
+
+
+# 代码复现系列
+
+|     日期      |            模型            |                             笔记                             |                     代码                      |
+| :-----------: | :------------------------: | :----------------------------------------------------------: | :-------------------------------------------: |
+| 2024年9月20日 | BERT-Tensorflow-GPU-2.10.0 | https://mp.weixin.qq.com/s/0yhLIBFosBHe7QYvcoNI7g?token=224962903&lang=zh_CN | https://github.com/YaoAIPro/bert-reproduction |
+
 喜欢我的内容可以扫描以下二维码关注公众号，以更快获取我的最新消息
 
-
-![fb30ee5e83ffd1918bd07a8aeb590f9](https://github.com/user-attachments/assets/aff9efa5-48f4-4bcf-adeb-99b03bed2044)
+![fb30ee5e83ffd1918bd07a8aeb590f9](./image/fb30ee5e83ffd1918bd07a8aeb590f9.jpg)
